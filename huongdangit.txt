@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Noi dung muon ghi chu"
+git remote add origin https://github.com/xuanhungptithcm/demo-create-github.git
+git push -u origin master
+
+///////////////////////////////
