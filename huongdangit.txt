@@ -5,3 +5,7 @@ git remote add origin https://github.com/xuanhungptithcm/demo-create-github.git
 git push -u origin master
 
 ///////////////////////////////
+sau khi lan dau
+git add . hoac git add ten file ma ban muon push
+git commit -m  "message"
+git push
